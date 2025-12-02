@@ -14,6 +14,13 @@ I enjoy building realtime communication apps, intuitive UI/UX, and scalable syst
 
 ---
 
+## 🎓 Education  
+**H.H. The Rajah's College, Pudukkottai**  
+**Master of Philosophy in Mathematics (M.Phil)**  
+📅 *2018 – 2020*
+
+---
+
 ## 🛠️ Tech I Use  
 **Frontend:** React, Redux, Next.js, Tailwind, MUI  
 **Backend:** Node.js, Express  
