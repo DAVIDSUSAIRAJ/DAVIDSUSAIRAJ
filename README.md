@@ -1,94 +1,125 @@
-<h1 align="center">👋 வணக்கம்! நான் David Susairaj</h1>
-<h3 align="center">Fullstack Developer | React | Node.js | WebRTC | AI Enthusiast</h3>
+<h1 align="center">👋 வணக்கம்! நான் David Susairaj.</h1>
+<p align="center">Fullstack Developer | React | Node.js | WebRTC | AI</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Fullstack+Developer;React+%7C+Node+%7C+MongoDB;WebRTC+Engineer;AI+%2F+RAG+Chatbot+Developer;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&width=600&lines=Fullstack+Developer;React+%7C+Node+%7C+MongoDB;WebRTC+Engineer;AI+Chatbot+Developer;Creating+Real-Time+Apps;Always+Learning+New+Things" />
 </p>
 
 ---
 
-## 🚀 About Me
-- 👨‍💻 Full-Stack Developer (MERN + React)
-- 🤖 AI & WebRTC enthusiast – Building chat apps & video/audio calling systems
-- 🧠 Currently exploring: **AI, WebRTC, RAG, Supabase**
-- 🤝 Love collaborating on open-source & innovative projects  
-- ⚡ Fun fact: *I break things… then fix them better 😄*
+## 🚀 About Me  
+Fullstack Developer focusing on **React, Node.js, MongoDB, WebRTC & AI Chatbots**.  
+I enjoy building realtime communication apps, intuitive UI/UX, and scalable systems.  
+✍️ Author of *“கிறுக்கனின் பயணத் தத்துவங்கள்”* (Releasing May 10 2025)
 
 ---
 
-## 🛠️ Tech Stack  
-
-### **Frontend**
-React • Redux • Tailwind • MUI • TypeScript • Next.js • Three.js • Sass  
-
-### **Backend**
-Node.js • Express.js  
-
-### **Database**
-MongoDB • Supabase  
-
-### **Tools & Others**
-Git • GitHub • VSCode • Docker • Azure DevOps • Jest • Figma  
-
-### **AI/ML**
-Google Gemini LLM • RAG Architecture • Conversational Chatbots  
+## 🛠️ Tech I Use  
+**Frontend:** React, Redux, Next.js, Tailwind, MUI  
+**Backend:** Node.js, Express  
+**Database:** MongoDB, Supabase  
+**AI/ML:** Gemini LLM, RAG, Conversational Chatbots  
 
 ---
 
-## 🏆 Honors & Awards
-- 🥇 **2021 National Champion in Silambam**  
-- 🥋 **2024 Certified State Referee – Silambam**  
-- ✍️ **Author – _கிறுக்கனின் பயணத் தத்துவங்கள்_ (Publishing May 10, 2025)**  
+## 🏆 Achievements  
+- 🥇 **National Champion – Silambam (2021)**  
+- 🥋 **Certified State Referee – Silambam (2024)**  
+- ✍️ Author • WebRTC Engineer • AI Chatbot Developer  
 
 ---
 
-## 🎓 Education
-**Master of Philosophy (MPhil) – Mathematics**  
-H.H. The Rajah's College, Pudukkottai (2018–2020)
+## 🚀 Featured Projects  
+
+### 🔥 **SwiftTalk – Real-Time Chat & Calls**  
+Realtime chat app with **text, voice notes, video calls, audio calls, file sharing**, built using React + Supabase + WebRTC.  
+🔗 **Live:** https://chat-osbe.onrender.com/
 
 ---
 
-## 💼 Work Experience
-
-### **React.js Developer — TD**
-- Proficient in React, React Router, Redux & modern UI development  
-- Collaborated with product/design/dev teams for scalable app development  
-- Implemented responsive designs with cross-browser compatibility  
-- Performed code reviews & optimized app performance  
-- Specialized in bug fixing & UI enhancement (3 years 9 months experience)  
-- Developed **AI-powered RAG + Gemini conversational chatbot** for real-time interaction  
+### 📚 **Mad Wanderings – Multilingual Book Application**  
+A multilingual reading app (Tamil, English, Hindi, Telugu, Malayalam,German) with a chapter-based layout + chatbot assistant.  
+🔗 **Live:** https://madwanderings.vercel.app/
 
 ---
 
-## 📦 My Packages
-### **📌 david-unique-id**  
-A custom NPM package for generating unique IDs.  
-➡️ *Simple, fast, developer-friendly.*
+### 🧊 **3D Portfolio Website**  
+A stunning 3D developer portfolio built using **React Three Fiber**.  
+🔗 **Live:** https://3-d-david-portfolio-ysab.vercel.app/
 
 ---
 
-## 📚 My Skills (Quick View)
-HTML • CSS • JavaScript • React • Redux • Tailwind • Sass • Material-UI • Git • GitHub  
-TypeScript • Express • MongoDB • Next.js • Node.js • Gemini AI  
+### 🎨 **2D Portfolio Website**  
+A minimal and elegant personal portfolio built using React.  
+🔗 **Live:** https://david-portfolio-two.vercel.app/
+
+---
+
+### ⭐ **Feedback System (MERN + TypeScript)**  
+Feedback system with Jest testing + custom NPM ID generator.  
+🔗 **Live:** https://my-feedback-app-nu.vercel.app/
+
+---
+
+### 🛒 **Mini eCommerce Platform (MERN)**  
+Full-stack eCommerce platform with product management & cart flow.  
+🔗 **Live:** https://mini-ecommerce-project-6mai.vercel.app/
+
+---
+
+### 🧠 **Quiz App (React + Sass)**  
+Dynamic questions, scoring, clean UI.  
+🔗 **Live:** https://davidsusairaj.github.io/quiz-react-app/
+
+---
+
+### 📝 **Todo App**  
+Clean and simple task management app built using React + Sass.  
+🔗 **Live:** https://davidsusairaj.github.io/todo-react-app/
+
+---
+
+### 🗺️ **RoadmapMaster – Planning Tool**  
+A React-based tool for roadmap creation + project planning.  
+🔗 **Live:** https://davidsusairaj.github.io/web-design-react/
+
+---
+
+### 🧭 **Journey Learning Project**  
+A showcase of my early learning path using HTML, JS, and Sass.  
+🔗 **Live:** https://davidsusairaj.github.io/Web-first-Design/
+
+---
+
+### ⏱️ **Stopwatch App**  
+A modern stopwatch with clean UI using React + Sass.  
+🔗 **Live:** https://davidsusairaj.github.io/stopwatch-react-app/
+
+---
+
+### 🔢 **Counter App (Redux)**  
+A simple state-management demo with Redux + React.  
+🔗 **Live:** https://davidsusairaj.github.io/redux-counter-app/
 
 ---
 
 ## 📬 Connect With Me  
+📞 **Phone:** +91 93451 63305  
+📧 **Email:** davidsusairaj1996@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/davidsusairaj  
+📸 **Instagram:** https://www.instagram.com/david_ekalaivan  
+🐙 **GitHub:** https://github.com/DAVIDSUSAIRAJ  
+
 <p align="left">
-  <a href="https://www.instagram.com/YOUR_INSTAGRAM"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+  <a href="https://www.instagram.com/david_ekalaivan"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
+  <a href="https://www.linkedin.com/in/davidsusairaj"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="mailto:davidsusairaj1996@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+  <a href="https://github.com/DAVIDSUSAIRAJ"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
 </p>
 
 ---
 
 ## ⭐ GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DAVIDSUSAIRAJ&show_icons=true&theme=radical" height="160" />
 </p>
-
----
-
-## 👋 Thank You!
-If you like my work, consider giving a ⭐ to my repositories!  
