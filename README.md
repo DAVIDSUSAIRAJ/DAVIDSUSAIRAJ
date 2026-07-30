@@ -1,16 +1,28 @@
 <h1 align="center">👋 வணக்கம்! நான் David Susairaj.</h1>
-<p align="center">Fullstack Developer | React | Node.js | WebRTC | AI</p>
+<p align="center">MERN Stack & AI Developer | Software Engineer (React) @ Solverminds</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&width=600&lines=Fullstack+Developer;React+%7C+Node+%7C+MongoDB;WebRTC+Engineer;AI+Chatbot+Developer;Creating+Real-Time+Apps;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&width=600&lines=MERN+Stack+%26+AI+Developer;Software+Engineer+%7C+React+Developer;Solverminds+Solutions+%26+Technologies;AI+Workflows+%7C+Claude+%7C+Gemini+%7C+RAG;MCP+%7C+Agent+Skills+%7C+Subagents;Always+Learning+New+Things" />
 </p>
 
 ---
 
 ## 🚀 About Me  
-Fullstack Developer focusing on **React, Node.js, MongoDB, WebRTC & AI Chatbots**.  
-I enjoy building realtime communication apps, intuitive UI/UX, and scalable systems.  
-✍️ Author of *“கிறுக்கனின் பயணத் தத்துவங்கள்”* (Releasing May 10 2025)
+**MERN Stack & AI Developer** and **Software Engineer (React Developer)** at **Solverminds Solutions & Technologies** (March 2022 – Present).  
+
+I build fullstack apps with **React, Node.js, MongoDB**, plus **AI systems** — Gemini, Claude / Anthropic API, RAG, MCP, Agent Skills, and visual AI workflows.  
+
+✍️ Author of *“கிறுக்கனின் பயணத் தத்துவங்கள்”* / *Philosophies of a Madman’s Wanderings* (Published May 10, 2025)
+
+---
+
+## 💼 Experience  
+**Software Engineer | React Developer**  
+**Solverminds Solutions & Technologies** · March 2022 – Present  
+- Full-stack React / MERN development and AI/ML integration  
+- Gemini + RAG chatbots with LLM function-calling for UI control  
+- Visual AI workflow builder (React Flow, Zustand, Qwen)  
+- Agentic AI workflows with Claude, MCP, Agent Skills & Subagents  
 
 ---
 
@@ -22,54 +34,78 @@ I enjoy building realtime communication apps, intuitive UI/UX, and scalable syst
 ---
 
 ## 🛠️ Tech I Use  
-**Frontend:** React, Redux, Next.js, Tailwind, MUI  
-**Backend:** Node.js, Express  
+**Frontend:** React, Redux, Zustand, Next.js, TypeScript, Tailwind, MUI, Bootstrap, Three.js  
+**Backend:** Node.js, Express, MCP, david-unique-id (npm)  
 **Database:** MongoDB, Supabase  
-**AI/ML:** Gemini LLM, RAG, Conversational Chatbots  
+**AI/ML:** Gemini, Qwen, Claude (Anthropic API), RAG, Prompt Engineering, Tool Use, Agent Skills & Subagents, Claude Code, React Flow / AI Workflow Builder, Responsible AI / EU AI Act, Ollama  
+**Tools:** Git, GitHub, Azure DevOps, Jest  
 
 ---
 
 ## 🏆 Achievements  
+- 🌟 **Supreme STAR** — Q1 2026 Rewards & Recognition @ Solverminds Solutions & Technologies  
 - 🥇 **National Champion – Silambam (2021)**  
 - 🥋 **Certified State Referee – Silambam (2024)**  
-- ✍️ Author • WebRTC Engineer • AI Chatbot Developer  
+- ✍️ Author of *Philosophies of a Madman’s Wanderings* (Tamil book + AI multilingual chatbot)
+
+---
+
+## 📜 Certifications  
+
+**DataCamp — EU AI Act Fundamentals**  
+Overall certificate (6-course path): Responsible AI Practices · AI Ethics · Large Language Models for Business · Generative AI for Business · Understanding the EU AI Act · Introduction to AI for Work  
+
+**Anthropic Academy**  
+Claude with the Anthropic API · Introduction to Model Context Protocol · Introduction to Subagents · Introduction to Agent Skills · Claude Code 101 · Introduction to Claude Cowork · Claude 101 · AI Fluency: AI Capabilities & Limitations · AI Fluency: Framework & Foundations  
 
 ---
 
 ## 🚀 Featured Projects  
 
+### 🧠 **AI Flow Runner – Visual AI Workflow Builder**  
+Drag-and-drop AI pipelines with React Flow, Zustand, Express & Qwen LLM.  
+🔗 **Live:** https://ai-flow-runner.vercel.app/
+
+---
+
+### 🔌 **MCP Server – Model Context Protocol Tools**  
+Custom MCP server with Create & Fetch tools (SSE on Render).  
+🔗 **Live:** https://mcp-server-mv7m.onrender.com/sse
+
+---
+
 ### 🔥 **SwiftTalk – Real-Time Chat & Calls**  
-Realtime chat app with **text, voice notes, video calls, audio calls, file sharing**, built using React + Supabase + WebRTC.  
+Realtime chat with **text, voice notes, video/audio calls, file sharing** — React + Supabase + WebRTC.  
 🔗 **Live:** https://chat-osbe.onrender.com/
 
 ---
 
-### 📚 **Mad Wanderings – Multilingual Book Application**  
-A multilingual reading app (Tamil, English, Hindi, Telugu, Malayalam,German) with a chapter-based layout + chatbot assistant.  
+### 📚 **Mad Wanderings – AI-Powered Multilingual Book Chatbot**  
+Multilingual book app (Tamil, English, Hindi, Telugu, Malayalam, German) with Gemini + RAG and LLM function-calling UI control.  
 🔗 **Live:** https://madwanderings.vercel.app/
 
 ---
 
 ### 🧊 **3D Portfolio Website**  
-A stunning 3D developer portfolio built using **React Three Fiber**.  
+Interactive 3D developer portfolio built with **React Three Fiber**.  
 🔗 **Live:** https://3-d-david-portfolio-ysab.vercel.app/
 
 ---
 
 ### 🎨 **2D Portfolio Website**  
-A minimal and elegant personal portfolio built using React.  
+Minimal personal portfolio built with React / MERN.  
 🔗 **Live:** https://david-portfolio-two.vercel.app/
 
 ---
 
 ### ⭐ **Feedback System (MERN + TypeScript)**  
-Feedback system with Jest testing + custom NPM ID generator.  
+Feedback system with Jest testing + custom NPM ID generator (`david-unique-id`).  
 🔗 **Live:** https://my-feedback-app-nu.vercel.app/
 
 ---
 
 ### 🛒 **Mini eCommerce Platform (MERN)**  
-Full-stack eCommerce platform with product management & cart flow.  
+Full-stack eCommerce with product management & cart flow.  
 🔗 **Live:** https://mini-ecommerce-project-6mai.vercel.app/
 
 ---
@@ -81,31 +117,31 @@ Dynamic questions, scoring, clean UI.
 ---
 
 ### 📝 **Todo App**  
-Clean and simple task management app built using React + Sass.  
+Task management with React + Sass.  
 🔗 **Live:** https://davidsusairaj.github.io/todo-react-app/
 
 ---
 
 ### 🗺️ **RoadmapMaster – Planning Tool**  
-A React-based tool for roadmap creation + project planning.  
+React tool for roadmap creation + project planning.  
 🔗 **Live:** https://davidsusairaj.github.io/web-design-react/
 
 ---
 
 ### 🧭 **Journey Learning Project**  
-A showcase of my early learning path using HTML, JS, and Sass.  
+Early learning path showcase — HTML, JS, and Sass.  
 🔗 **Live:** https://davidsusairaj.github.io/Web-first-Design/
 
 ---
 
 ### ⏱️ **Stopwatch App**  
-A modern stopwatch with clean UI using React + Sass.  
+Modern stopwatch UI with React + Sass.  
 🔗 **Live:** https://davidsusairaj.github.io/stopwatch-react-app/
 
 ---
 
 ### 🔢 **Counter App (Redux)**  
-A simple state-management demo with Redux + React.  
+State-management demo with Redux + React.  
 🔗 **Live:** https://davidsusairaj.github.io/redux-counter-app/
 
 ---
